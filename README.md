@@ -1,6 +1,6 @@
 ## Clone Project ini
 ```bash
-> git clone https://github.com/Arief-zx/AnonymousBot
+> git clone https://github.com/Arief-zx/AnonymousBo
 ```
 ## Install MongoDB
 > Cara Install di <a href="https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/">Windows</a><br/><br/>
